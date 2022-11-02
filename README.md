@@ -1,14 +1,11 @@
 # NJmatML-updateFormationEnergy
 更新了代码，加入新的ML算法和试了新数据集可用
 
-只需要2个文件
+只需要2个输入文件（必须csv格式），其余可以删掉
 
 1.  2DEformationCleaned.csv 
 
 2.   x_New.csv
-
-
-NJmatML_version004_Eformation.ipynb
 
 请根据 NJmatML_version004_Eformation.ipynb 跑完流程
 
